@@ -1,17 +1,16 @@
-# Desarrollo de aplicaciones empleando PyCharm (JetBrains)
+# Python Analytics Course - Spring 2020
 
 ## Objetivos
- 
-* Emplear un IDE de desarrollo para las etapas de vida de un proyecto
-* Llevar a cabo el desarrollo de un proyecto en su ciclo de vida a través del IDE Pycharm
-* Diseñar e implementar un proyecto de arquitectura orientada a servicios empleando el IDE Pycharm
+
+* Diseñar e implementar aplicaciones para el analisis de datos empleando arquitecturas orientadas a servicios
+* Emplear un IDE de desarrollo para las etapas de vida de un proyecto de analitica de datos
 
 ## Metología
 
-Clases 20% teoricas , 80% practicas.
-Actividades previas a la clase, durante la clase y posterior a clase
-Videos, Documentación y código fuente disponible en GitHub
-Canal de Slack para solución de dudas
+* Clases 20% teoricas , 80% practicas.
+* Actividades previas a la clase, durante la clase y posterior a clase
+* Videos, Documentación y código fuente disponible en GitHub
+* Canal de Slack para solución de dudas
 
 ## Contenido
 
@@ -94,3 +93,6 @@ Canal de Slack para solución de dudas
 
 * Profiling
   * Improve Python code performance using profiling tools
+
+## References
+* https://www.jetbrains.com/help/pycharm/quick-start-guide.html
