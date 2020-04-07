@@ -1,15 +1,19 @@
 # Curso de actualización en Python 2020B
-* Enfasis en manejo de IDE
+
+## Énfasis
+
+* Manejo de Entornos Integrados de Desaroolo (IDE)
 * Guiado por la construcción de una aplicación de analítica de datos
 
 ## Objetivos
 
 * Diseñar e implementar aplicaciones para la analítica de datos empleando arquitecturas orientadas a servicios
-* Emplear un Ambiente integrado de desarrollo (IDE) para las etapas de vida de un proyecto de analítica de datos
+* Emplear un IDE para las etapas de vida de un proyecto de analítica de datos
 
 ## Metología
 
-* Clases 20% teoricas , 80% practicas.
+* Curso virtual
+* Clases 20% teoricas, 80% practicas.
 * Actividades previas a la clase, durante la clase y posterior a clase
 * Videos, Documentación y código fuente disponible en GitHub
 * Canal de Slack y Discord para solución de dudas
@@ -18,25 +22,46 @@
 
 * Descripción general del curso
   * Objetivos
+  * Contenido
   * Metodología
   * Caso de Uso
 
 * Herramientas de versionamiento de código 
-  * Introducción
-  * Conceptos básicos: rama, commit, pull request, merge request
-  * Herramientas: Proveedores en Internet, Editores, Plugins
-  * Flujo de trabajo con Git: Github Flow, Gitlab Flow, BitBucket Flow
+  * Introduccióna a Git
+  * Conceptos básicos
+    * Reference: Branch, Tag, Commit
+    * Pull request, merge request
+    * Merge
+    * Rebase
+    * Stash
+    * Reset
+  * Herramientas
+    * Proveedores en Internet
+    * Editores
+    * Plugins
+  * Flujo de trabajo con Git
+    * Github Flow
+    * Gitlab Flow
+    * BitBucket Flow
 
-* Metodologías Ágiles
+* Metodologías ágiles
   * Introducción
-  * Como escribir un proyecto, funcionalidades, historias de usuario, tareas
-  * Importancia de las métricas y como usarlas: velocidad, capacidad
-  * Integración con herramientas de versionamiento
+  * Planeacióctn y seguimiento
+    * Proyecto
+    * Funcionalidades
+    * Historias de usuario
+    * Subtareas
+  * Métricas
+    * Velocidad
+    * Capacidad
+  * Integración con Git
+    * Rally
+    * Jira
 
 * Configuración de ambientes virtuales en Python
-  * Manejo de version de Python con pyenv
+  * Gestión de versiones de Python con pyenv
   * Gestión de ambientes virtuales con mkvirtualenvwrapper
-  * Gestión de librerias a nivel de ambiente
+  * Gestión de librerias por ambiente de desarrollo
 
 * PyCharm IDE Basics 
   * Creación de un proyecto
@@ -45,11 +70,13 @@
   * Presentación de ejemplo básico de analítica
   * Creación de una biblioteca de Python y publicación en servidor
   * Gestión de Logs y niveles
-  * Analisis de código estatico con Flake8,
+  * Analisis de código estatico con flake8,
   * Covertura con pycoverage
-  * Pruebas unitarias with pytest and tox
+
+* Bateria de pruebas
   * Diseño guiado por las pruebas (TDD)
   * Diseño guiado por el comportamiento (BDD)
+  * Pruebas unitarias with pytest and tox
   * Pruebas de integración 
   * Pruebas de humo
   * Pruebas de carga
@@ -73,10 +100,10 @@
   * Diseño de API y buenas prácticas
   * Creación de la especificación de un API usando OpenAPI 3.0
   * Conexión de una especificación en OpenAPI 3.0 con código en Python 3
-    * Párametros en la URL
-    * Párametros en la consulta
-    * Carga útil
-  * API authentication/authorization using JWT Tokens (Auth0)
+    * Párametros en el path
+    * Párametros en el query
+    * Información en la carga útil
+  * Autenticación y autorización de API empleando JWT Tokens (Auth0)
   * Empaquetando la aplicación en un contenedor de Docker
   * Configuración de un servidor de aplicación: UWSGI, AIO, Unicorn
   * Pruebas locales de la API empleando la aplicación Postman
@@ -124,16 +151,24 @@
     * Correciones
     * Escaneo de vulnerabilidades
     * Validación de RFCs para despliegue
-  * Empleo de herramientas de integración continua: Travis, Github Actions, Drone, CircleCI 
+  * Herramientas de integración continua
+    * Travis
+    * Github Actions
+    * DroneIO
+    * CircleCI 
   * Uso de Python para la ejecución de tareas de automatización
-  * Empleo de herramientas para implementación de ChatOPS
-  * Diseño e implementación de un sistema de alertas: PagerDuty, NewRelic
+  * Implementación de ChatOPS
+    * Microsoft Teams
+    * Slack
+  * Diseño e implementación del sistema de alertas
+    * PagerDuty 
+    * NewRelic
 
 * Monitoreo
   * Pila de monitoreo ElasticSearch-Fluentd-Kibana
     * Introducción y despliegue de Elasticsearch
     * Introducción y despliegue de Kibana
-    * Introducción a los recolectores de logs y despliegue de fluentd
+    * Introducción a los recolectores de logs y despliegue de Fluentd
 
 * Monitoreo en AWS
   * Pila de monitoreo ElasticSearch-Fluentd-Kibana
