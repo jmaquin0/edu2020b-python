@@ -2,7 +2,7 @@
 
 ## Énfasis
 
-* Manejo de Entornos Integrados de Desaroolo (IDE)
+* Manejo de Entornos Integrados de Desarollo (IDE)
 * Guiado por la construcción de una aplicación de analítica de datos
 
 ## Objetivos
