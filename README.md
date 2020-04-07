@@ -109,7 +109,17 @@
   * Pruebas locales de la API empleando la aplicación Postman
 
 * REST en AWS
-  * Descripción de recursos de AWS y buenas prácticas
+  * Descripción de recursos de AWS
+    * AWS VPC
+    * AWS S3
+    * AWS Api Gateway
+    * AWS Route53
+    * AWS IAM
+    * AWS Lambda
+    * AWS EC2
+    * AWS EKS
+    * AWS CloudFormation
+  * Buenas prácticas
     * Etiquetado
     * Políticas
     * Infrastructura como servicio
@@ -156,6 +166,7 @@
     * Github Actions
     * DroneIO
     * CircleCI 
+    * AWS CodePipeline
   * Uso de Python para la ejecución de tareas de automatización
   * Implementación de ChatOPS
     * Microsoft Teams
