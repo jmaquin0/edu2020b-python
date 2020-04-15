@@ -73,6 +73,12 @@
   * Log management and verbose
   * Static code analysis with *flake8*
   * Code coverage with **[pycoverage](https://coverage.readthedocs.io/en/coverage-5.0.4/)**.
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> b539a6eef081dd6388530d8250123e6bf22c7986
 
 * **Use Case**
   * Problem definition.
