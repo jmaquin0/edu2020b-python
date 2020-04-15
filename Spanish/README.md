@@ -87,6 +87,8 @@
   * Dominios acotados, lenguaje ubícuo
   * Arquitectura hexagonal 
   * Comunicación entre dominios
+  * Event sourcing
+  * Principios SOLID
 
 * SOA
   * Introduccion a las arquitecturas orientadas a servicios (SOA)
