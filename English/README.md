@@ -1,4 +1,9 @@
-# Python Analytics Course - Spring 2020
+# Python Updating Skills Course 2020B
+
+## Emphasis
+
+* Integrated Development Environments (IDE) management.
+* Guided by a Data Analytics Application development.
 
 ## Main Goals
 
@@ -7,13 +12,70 @@
 
 ## Methodology
 
-* **Training**: { Theory: "20%" , Practice: "80%" }.
-* **Responsibilities**: { Homeworks: "Before class sessions", Workshops: "During class sessions",
-  **Project**: "During and after class sessions" }.
+* Virtual sessions.
+**Training**: Theory: 20% and Labs and Workshops: 80%".
+* **Responsibilities**: Homeworks, before class sessions; Workshops, during class sessions; and a Project during and after class sessions.
 * **Online Resources** = [Videos, Docs, GitHub repository, Source code].
-* **Communication channels and forums**: Slack | Discord.
+* **Communication channels and forums**: Slack and Discord.
 
-## Training areas
+## Index
+
+* Course overview
+  * Objectives.
+  * Subjects.
+  * Methodology.
+  * Use Case.
+
+
+* Tools for version control
+  * Introduction to Git
+  * Basics
+    * Reference: Branch, Tag, Commit
+    * Pull request, merge request
+    * Merge
+    * Rebase
+    * Stash
+    * Reset
+  * Tools
+    * Internet providers
+    * Editors
+    * Plugins
+  * Workflows
+    * GitHub Flow
+    * GitLab Flow
+    * BitBucket Flow
+
+* Agile principles and methodologies
+  * Introduction
+  * Planning and monitoring
+    * Project
+    * Functional Requirements
+    * User Stories
+    * Subtasks
+  * Metrics
+    * Velocity metrics
+    * Capacity metrics
+  * Integration with Git
+    * Rally
+    * Jira
+  
+* Set Virtual Environments in Python
+  * Version control with *pyenv*
+  * Virtual environments management with *mkvirtualenvwrapper*
+  * Library management in developer environments
+
+* PyCharm IDE Basics
+  * Create a project
+  * Create a project template
+  * Virtual environments configuration
+  * Basic Analytics Sample Presentation
+  * Making and publishing a custom Python library
+  * Log management and verbose
+  * Static code analysis with *flake8*
+  * Code coverage with **[pycoverage](https://coverage.readthedocs.io/en/coverage-5.0.4/)**.
+
+
+
 
 * **Use Case**
   * Problem definition.
@@ -22,10 +84,6 @@
   * Roles and Responsibilities.
   * Deriverables definition.
 
-* **Git**
-  * **Basics** - Working Directory --> Staging --> .git repo --> .git remote repo
-  * **Git flow** - Master <- Develop <- Feature / Release / Hotfix  -- Pair Programming / Pull Request
-  * **Tools** - GitHub, Git Editors and Editor Plugins.
 
 * **Scrum**
   * How to write a Project, Features, User Stories and Tasks.
