@@ -181,6 +181,7 @@
   * Implement Python code scripts for pipeline stages.
   * **ChatOps implementation**
     * [Microsoft Teams]().
+    * [Discord](https://discordapp.com/).
     * [Slack](https://slack.com/intl/es-co/).
   * Design and implementation of an **alert system**
     * [PagerDuty](https://www.pagerduty.com/).
