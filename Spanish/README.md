@@ -46,7 +46,7 @@
 
 * Metodologías ágiles
   * Introducción
-  * Planeacióctn y seguimiento
+  * Planeación y seguimiento
     * Proyecto
     * Funcionalidades
     * Historias de usuario
