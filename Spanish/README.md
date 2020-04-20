@@ -26,19 +26,32 @@
   * Metodología
   * Caso de Uso
 
-* Herramientas de versionamiento de código 
-  * Introduccióna a Git
+* Herramientas de versionamiento de código
+  * Introducción a Git
+  * Instalación de Git
   * Conceptos básicos
+    * Fork
+    * Clone
     * Reference: Branch, Tag, Commit
-    * Pull request, merge request
+    * Pull request, Merge request
     * Merge
     * Rebase
     * Stash
+      * Push
+      * Pop
     * Reset
+    * connection via SSH
   * Herramientas
     * Proveedores en Internet
+      * Gitlab
+      * Github
+      * Bitbucket
+      * AWS CodeCommit
     * Editores
-    * Plugins
+      * VSCode
+        * Plugins
+      * Pycharm
+        * Plugins
   * Flujo de trabajo con Git
     * Github Flow
     * Gitlab Flow
