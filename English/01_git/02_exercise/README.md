@@ -63,8 +63,8 @@ Github allows you to use your github repository as a website host if you create 
 ## References
 * https://revealjs.com
 
-[1]: images/1_fork.png
-[2]: images/2_clone_url.png
-[3]: images/3_delete_branch.png
-[4]: images/4_create_branch.png
+[1]: images/1_fork_highlighted.png
+[2]: images/2_clone_url_highlighted.png
+[3]: images/3_delete_branch_highlighted.png
+[4]: images/4_create_branch_highlighted.png
 [5]: images/5_example_website.png
